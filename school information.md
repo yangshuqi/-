@@ -22,4 +22,3 @@
 
 
 # Others
-- [http://www.1point3acres.com/bbs/thread-444342-1-1.html](http://www.1point3acres.com/bbs/thread-444342-1-1.html "http://www.1point3acres.com/bbs/thread-444342-1-1.html")
