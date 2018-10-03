@@ -21,7 +21,11 @@
 
 # UCSD (加州大学-圣地亚哥分校）
 
-## UMass Rank 10  USNews CS Rank 16 USNews National Rank 41
+## Rank
+
+UMass| USNews CS| USNews National
+---|---|---
+10|16|41
 
 ## Links
 - [UCSD CSE风景超好学费超便宜排名又好你们不来吗！！！（半年生活学习实习分享](http://www.1point3acres.com/bbs/thread-259453-1-1.html "http://www.1point3acres.com/bbs/thread-259453-1-1.html")
