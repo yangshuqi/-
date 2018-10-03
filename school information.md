@@ -61,6 +61,10 @@ UMass| USNews CS| USNews National
 ---|---|---
 6|11|27
 
+## Links
+- [DS intro](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html)
+- [CSE intro](https://www.cse.umich.edu/cse/graduate/)
+
 ## Basic Info
 - 有三个分校 安娜堡（Ann Arbor，主校区）、迪尔伯恩（Dearborn）和弗林特（Flint), 主要关注安娜堡
 - Master's Program in Computer Science and Engineering(CSE) (安娜堡）
@@ -70,11 +74,12 @@ UMass| USNews CS| USNews National
 	- The MS (Master's of Science) and MSE (Master's of Science in Engineering) degrees differ mainly in name. The degree requirements are the same. Students with a bachelor's degree in engineering can elect either degree. Students without an engineering bachelor's degree are eligible only for the MS.
 	- 是有thesis option的，详见[CSE Graduate Programs](https://eecs.umich.edu/eecs/graduate/cse/CSE-Graduate-Programs.pdf)
 - Master's Program in Data Science(DS) (安娜堡)
-	- 
+	- 一亩三分地里说大概Umich的DS选CSE的课挺难得，然后DS的网站又巨坑，不看了不看了。有兴趣自己看。
+- MSI 
+	- 地里好多人报这个的ad，怎么看上去有点水？想申请Umich的自己多研究吧。。。
 
 
-## Links
-- [DS intro](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html)
+
 
 # GaTech(佐治亚理工)
 
