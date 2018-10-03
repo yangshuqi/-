@@ -51,6 +51,16 @@ Computational Science, Mathematics and Engineering(CSME)|||2019-2-4
 #### admisson
 - 2
 
+# USC(南加州大学）
+
+## Rank
+
+UMass| USNews CS| USNews National
+---|---|---
+15|20|22
+
+
+
 # UCI
 ## Links
 - [http://www.1point3acres.com/bbs/thread-372304-1-1.html](http://www.1point3acres.com/bbs/thread-372304-1-1.html "http://www.1point3acres.com/bbs/thread-372304-1-1.html")
