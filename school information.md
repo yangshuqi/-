@@ -17,7 +17,7 @@
 
 # UCSD 
 ## Links
-- [http://www.1point3acres.com/bbs/thread-259453-1-1.html](http://www.1point3acres.com/bbs/thread-259453-1-1.html "http://www.1point3acres.com/bbs/thread-259453-1-1.html")
+- [UCSD CSE风景超好学费超便宜排名又好你们不来吗！！！（半年生活学习实习分享](http://www.1point3acres.com/bbs/thread-259453-1-1.html "http://www.1point3acres.com/bbs/thread-259453-1-1.html")
 - 
 
 ## T/G
