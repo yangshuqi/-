@@ -65,7 +65,7 @@ program| TOEFL| GRE |ddl
 CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 
 ## Program
-- 有一堆下面的小选项，主要有三类，一个是CS General(28 units), 还有其他一些是CS specific(32 units), 还有一个CS-Scientists and Engineers(37 units, 俗称CS37, 好像对转专业比较友好，和我们关系不大???) 可以见[computer science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/)
+- 有一堆下面的小选项，主要有三类，一个是CS General(28 units), 还有其他一些是CS specific(32 units), 还有一个CS-Scientists and Engineers(37 units, 俗称CS37, 好像对转专业比较友好，和我们关系不大???) 可以见[Program List](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/)
 
 ## Admisson
 - [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=419757&highlight=USC)
