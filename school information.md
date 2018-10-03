@@ -40,6 +40,7 @@ UMass| USNews CS| USNews National
 - program list: [https://grad.berkeley.edu/programs/list/](https://grad.berkeley.edu/programs/list/ "https://grad.berkeley.edu/programs/list/")
 - UCB的官网上点apply会跳转到一个有更多申请信息的页面（但有些学校的就直接进入申请页面了，只能每个学校的都戳一戳试试了> <），比如：[https://grad.berkeley.edu/admissions/apply/](https://grad.berkeley.edu/admissions/apply/ "https://grad.berkeley.edu/admissions/apply/")
 - 要求：[https://grad.berkeley.edu/admissions/requirements/](https://grad.berkeley.edu/admissions/requirements/ "https://grad.berkeley.edu/admissions/requirements/")
+- 15fall情况介绍：[http://www.1point3acres.com/bbs/thread-140970-1-1.html](http://www.1point3acres.com/bbs/thread-140970-1-1.html)
 ## Basic Information:
 - M.Eng. of Electrical Engineering & Computer Sciences (Engineering School):
 	- **DDL**:	**January 7, 2019** (M.Eng.)
