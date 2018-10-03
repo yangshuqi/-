@@ -189,6 +189,16 @@ program| TOEFL| GRE |ddl
 ---|---|---|---
 CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 
+# Upenn (宾夕法尼亚大学)
+
+## Rank
+
+UMass| USNews CS| USNews National
+---|---|---
+14|19|8
+
+
+
 
 # USC(南加州大学）
 
