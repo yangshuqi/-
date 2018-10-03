@@ -2,6 +2,8 @@
 - [UMass的教授根据faculty的论文数量质量做的排行](http://csrankings.org/#/index?all)
 - [USNews的CS专排](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)
 - [USNews的综排](https://www.usnews.com/best-colleges/rankings/national-universities)
+# 常见问题
+- [degree和certificate区别](https://study.com/articles/What_is_the_Difference_Between_a_Certificate_Diploma_and_Degree.html）
 # UIUC
 ## Rank
 UMass| USNews CS| USNews National
