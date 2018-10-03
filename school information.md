@@ -26,6 +26,13 @@ program| TOEFL| GRE |ddl
 Computer Science and Engineering(CSE)|85||2018-12-17
 Computational Science, Mathematics and Engineering(CSME)|||2019-2-4
 
+## Program
+### CSE
+- 分cs和ce，主要区别在于选课的时候，感觉cs会自由一点，还有学位证书也不同。有三个track，前两个是40units，后面一个是48units。第一个是thesis，后两个是course（第三个有交叉）。总之觉得是不错的选择。
+- [M.S. Plan I - Thesis](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-thesis)
+- [M.S. Plan II- Comprehensive Exam, Standard Option](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-standard)
+- [M.S. Plan II - Comprehensive Exam, Interdisciplinary Option](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-interdisc)
+
 # UCI
 ## Links
 - [http://www.1point3acres.com/bbs/thread-372304-1-1.html](http://www.1point3acres.com/bbs/thread-372304-1-1.html "http://www.1point3acres.com/bbs/thread-372304-1-1.html")
