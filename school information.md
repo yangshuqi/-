@@ -22,6 +22,21 @@
 	- **GPA**： 3.0/4.0 or higher 
 	- **Recommandation Letter**: Applicants are required to have **three** letters of recommendation submitted. It is recommended that letters of recommendation be from **academics**. 
 
+# UCB（加州大学伯克利分校）
+## Links:
+- program list: [https://grad.berkeley.edu/programs/list/](https://grad.berkeley.edu/programs/list/ "https://grad.berkeley.edu/programs/list/")
+- UCB的官网上点apply会跳转到一个有更多申请信息的页面（但有些学校的就直接进入申请页面了，只能每个学校的都戳一戳试试了> <），比如：[https://grad.berkeley.edu/admissions/apply/](https://grad.berkeley.edu/admissions/apply/ "https://grad.berkeley.edu/admissions/apply/")
+- 要求：[https://grad.berkeley.edu/admissions/requirements/](https://grad.berkeley.edu/admissions/requirements/ "https://grad.berkeley.edu/admissions/requirements/")
+## Basic Information:
+- M.Eng. of Electrical Engineering & Computer Sciences (Engineering School):
+	- **DDL**:	**January 7, 2019** (M.Eng.)
+	- **TOFEL**: For purposes of admission, your most recent score must be **at least 90** （most recent 是什么意思...).  Please contact individual academic departments for more information, as they may choose to require a higher score. （每个项目应该还有不同的bar吧... 他说contact？）
+	-  one academic year and includes three major components: (1) An area of technical concentration; (2) Courses in leadership skills; (3) A rigorous capstone project experience. （课表里还看到有两个leadership的课和communication的课orz）
+- M.S. of Electrical Engineering & Computer Sciences (Engineering School):
+	- **DDL**:	**December 17, 2018** (M.S., M.S./Ph.D., Ph.D)
+- M.S. of Computer Science (Computer Science)
+	- **DDL**： **December 17, 2018** (Ph.D., M.S./Ph.D., M.S.)
+
 # UTA  
 ## Links  
 - [http://www.1point3acres.com/bbs/thread-314543-1-1.html](http://www.1point3acres.com/bbs/thread-314543-1-1.html "http://www.1point3acres.com/bbs/thread-314543-1-1.html")
@@ -63,8 +78,6 @@ UMass| USNews CS| USNews National
 10|16|41
 
 ## Links
-- [CSE Admisson Requirements](https://cse.ucsd.edu/graduate/admissions)
-- [CSE Program Introduction](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 - [UCSD CSE风景超好学费超便宜排名又好你们不来吗！！！（半年生活学习实习分享](http://www.1point3acres.com/bbs/thread-259453-1-1.html "http://www.1point3acres.com/bbs/thread-259453-1-1.html")
 
 
