@@ -57,8 +57,18 @@ Computational Science, Mathematics and Engineering(CSME)|||2019-2-4
 - [哥大cs2018年新生感受](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=440862&highlight=%B8%E7%B4%F3)
 - 
 
+## T/G
+program| TOEFL| GRE |ddl
+---|---|---|---
+CS|101|Q750(不知如何换算)|2018-2-15
+
+- 感觉很迷，我点CE跳到了工程院然后ddl又不一样了。
+
 ## Program
 
+## Admission
+
+- [CS General](http://www.1point3acres.com/bbs/thread-367866-1-1.html)
 
 
 ## Rank
