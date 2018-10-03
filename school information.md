@@ -61,12 +61,20 @@ UMass| USNews CS| USNews National
 ---|---|---
 6|11|27
 
+## Basic Info
+- 有三个分校 安娜堡（Ann Arbor，主校区）、迪尔伯恩（Dearborn）和弗林特（Flint), 主要关注安娜堡
+- Master's Program in Computer Science and Engineering(CSE) (安娜堡）
+	- For full admission consideration, applications for the M.S. program must be submitted and complete by **January 15th**.
+	- CSE offers two graduate degree programs. The M.S. program lasts about two years and requires 30 credit-hours of graduate-level coursework.
+	- Successful M.S. applicants usually have an undergraduate GPA of at least 3.5/4.0, GRE scores of at least 70% verbal, 90% quantitative, and 40% analytical writing, and three strong letters of recommendation. International students should have a TOEFL score of at least 100. 
+	- The MS (Master's of Science) and MSE (Master's of Science in Engineering) degrees differ mainly in name. The degree requirements are the same. Students with a bachelor's degree in engineering can elect either degree. Students without an engineering bachelor's degree are eligible only for the MS.
+	- 是有thesis option的，详见[CSE Graduate Programs](https://eecs.umich.edu/eecs/graduate/cse/CSE-Graduate-Programs.pdf)
+- Master's Program in Data Science(DS) (安娜堡)
+	- 
+
 
 ## Links
-- [Program List](https://umdearborn.edu/cecs/graduate-programs/degree-programs)
-- [MSE in CE intro](https://umdearborn.edu/cecs/departments/electrical-and-computer-engineering/graduate-programs/mse-computer-engineering)
-- [MS in CIS]
-- [
+- [DS intro](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html)
 
 # GaTech(佐治亚理工)
 
