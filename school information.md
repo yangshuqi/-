@@ -32,6 +32,13 @@ Computational Science, Mathematics and Engineering(CSME)|||2019-2-4
 - [M.S. Plan I - Thesis](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-thesis)
 - [M.S. Plan II- Comprehensive Exam, Standard Option](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-standard)
 - [M.S. Plan II - Comprehensive Exam, Interdisciplinary Option](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-interdisc)
+#### admission
+- 1 
+### CSME
+- 看到了就记下来，感觉ucsd还是主要申请cse吧
+
+#### admisson
+- 2
 
 # UCI
 ## Links
@@ -39,3 +46,7 @@ Computational Science, Mathematics and Engineering(CSME)|||2019-2-4
 
 
 # Others
+
+# Others' admissons
+- 1 [18Fall 中科大](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=423813&highlight=ucsd)
+- 2 [18Fall 福大](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=395643&highlight=ucsd)
