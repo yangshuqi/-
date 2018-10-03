@@ -3,7 +3,7 @@
 - [USNews的CS专排](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)
 - [USNews的综排](https://www.usnews.com/best-colleges/rankings/national-universities)
 # 常见问题
-- [degree和certificate区别](https://study.com/articles/What_is_the_Difference_Between_a_Certificate_Diploma_and_Degree.html）
+- [degree和certificate区别](https://study.com/articles/What_is_the_Difference_Between_a_Certificate_Diploma_and_Degree.html)
 # UIUC
 ## Rank
 UMass| USNews CS| USNews National
@@ -61,7 +61,9 @@ UMass| USNews CS| USNews National
 ---|---|---
 6|11|27
 
+
 ## Links
+- [Program List](https://umdearborn.edu/cecs/graduate-programs/degree-programs)
 - [MSE in CE intro](https://umdearborn.edu/cecs/departments/electrical-and-computer-engineering/graduate-programs/mse-computer-engineering)
 - [MS in CIS]
 - [
