@@ -71,6 +71,7 @@ CS|101|Q750(不知如何换算)|2018-2-15
 
 - [CS General](http://www.1point3acres.com/bbs/thread-367866-1-1.html)
 - [浙交复南 CS](http://www.1point3acres.com/bbs/thread-298866-1-1.html)
+- [上交 CS](http://www.1point3acres.com/bbs/thread-367866-1-1.html)
 
 
 ## Rank
