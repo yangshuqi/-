@@ -52,6 +52,18 @@ UMass| USNews CS| USNews National
 ## Links  
 - [http://www.1point3acres.com/bbs/thread-314543-1-1.html](http://www.1point3acres.com/bbs/thread-314543-1-1.html "http://www.1point3acres.com/bbs/thread-314543-1-1.html")
 
+# UMich(密西根大学)
+
+## Rank
+UMass| USNews CS| USNews National
+---|---|---
+6|11|27
+
+## Links
+- [MSE in CE intro](https://umdearborn.edu/cecs/departments/electrical-and-computer-engineering/graduate-programs/mse-computer-engineering)
+- [MS in CIS]
+- [
+
 # GaTech(佐治亚理工)
 
 ## Rank
