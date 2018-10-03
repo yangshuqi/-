@@ -14,7 +14,16 @@
 ## Links  
 - [http://www.1point3acres.com/bbs/thread-314543-1-1.html](http://www.1point3acres.com/bbs/thread-314543-1-1.html "http://www.1point3acres.com/bbs/thread-314543-1-1.html")
 
-# GaTech
+# GaTech(佐治亚理工)
+
+## Rank
+UMass| USNews CS| USNews National
+---|---|---
+9|8|35
+
+## T/G
+
+
 ## Some reference
 - "COC比较偏数学（？）"；  "GaTech要求每个申请人在ApplyWeb只能申请两个项目；但可以用另外的邮箱多注册一个ApplyWeb账号申请多个，一个学院申请多个，可能在秘书分类材料时候会发现。" （from [http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524 "http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524") )
 
