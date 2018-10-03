@@ -3,6 +3,10 @@
 - [USNews的CS专排](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)
 - [USNews的综排](https://www.usnews.com/best-colleges/rankings/national-universities)
 # UIUC
+## Rank
+UMass| USNews CS| USNews National
+---|---|---
+5|5|46
 ## Links
 - list of all programs: [https://cs.illinois.edu/admissions/graduate/application-deadlines](https://cs.illinois.edu/admissions/graduate/application-deadlines)
 - MCS: [https://cs.illinois.edu/admissions/graduate/applications-process-requirements](https://cs.illinois.edu/admissions/graduate/applications-process-requirements "https://cs.illinois.edu/admissions/graduate/applications-process-requirements")
@@ -23,6 +27,13 @@
 	- **Recommandation Letter**: Applicants are required to have **three** letters of recommendation submitted. It is recommended that letters of recommendation be from **academics**. 
 
 # UCB（加州大学伯克利分校）
+
+## Rank
+
+UMass| USNews CS| USNews National
+---|---|---
+4|1|22
+
 ## Links:
 - program list: [https://grad.berkeley.edu/programs/list/](https://grad.berkeley.edu/programs/list/ "https://grad.berkeley.edu/programs/list/")
 - UCB的官网上点apply会跳转到一个有更多申请信息的页面（但有些学校的就直接进入申请页面了，只能每个学校的都戳一戳试试了> <），比如：[https://grad.berkeley.edu/admissions/apply/](https://grad.berkeley.edu/admissions/apply/ "https://grad.berkeley.edu/admissions/apply/")
