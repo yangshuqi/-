@@ -32,12 +32,12 @@ UMass| USNews CS| USNews National
 ## T/G
 - M.S. Computer Science(in CoC) - Admissions Requirements (information from link 2):  
 	- Three recommendation letters	
-	- GRE: at least 153 in the Verbal, 155 in the Quantitative, and 3.0 in the Analytical sections for the MS program.
-	- GPA: The desirable minimum GPA is 3.0/4.0, though most candidates score higher.
-	- TOEFL: TThe minimum accepted score is 100 for the internet based TOEFL exam, however most candidates should be above this score.
-	- DDL: applications for fall are due by the drop day of the spring term (January 11, 2019 4:00 PM 不确定是不是这个... [calendar link](https://registrar.gatech.edu/calendar ). 
+	- **GRE**: at least **153 in the Verbal**, **155 in the Quantitative**, and **3.0 in the Analytical** sections for the MS program.
+	- **GPA**: The desirable minimum GPA is 3.0/4.0, though most candidates score higher.
+	- **TOEFL**: TThe minimum accepted score is **100** for the internet based TOEFL exam, however most candidates should be above this score.
+	- **DDL**: applications for fall are due by the drop day of the spring term (January 11, 2019 4:00 PM 不确定是不是这个... [calendar link](https://registrar.gatech.edu/calendar ). 
 -  Master of Science degree in Computational Science and Engineering (CSE):
-	- DDL: The application deadline for the MS Program in CSE is Feb. 1.
+	- DDL: The application deadline for the MS Program in CSE is **Feb. 1**.
 ## Some reference
 - "COC比较偏数学（？）"；  "GaTech要求每个申请人在ApplyWeb只能申请两个项目；但可以用另外的邮箱多注册一个ApplyWeb账号申请多个，一个学院申请多个，可能在秘书分类材料时候会发现。" （from [http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524 "http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524") )
 
