@@ -50,6 +50,7 @@ Computational Science, Mathematics and Engineering(CSME)|||2019-2-4
 ## Admission
 - [CSE](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=423813&highlight=ucsd)
 - [CSME](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=395643&highlight=ucsd)
+- [浙交复南 CS General](http://www.1point3acres.com/bbs/thread-298866-1-1.html)
 
 # Columbia(哥伦比亚大学)
 
@@ -69,6 +70,7 @@ CS|101|Q750(不知如何换算)|2018-2-15
 ## Admission
 
 - [CS General](http://www.1point3acres.com/bbs/thread-367866-1-1.html)
+- [浙交复南 CS](http://www.1point3acres.com/bbs/thread-298866-1-1.html)
 
 
 ## Rank
@@ -106,6 +108,7 @@ CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 - [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=424731&highlight=USC)
 - [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=419604)
 - [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=419654&highlight=USC)
+- [浙交复南 CS](http://www.1point3acres.com/bbs/thread-298866-1-1.html)
 # UCI
 ## Links
 - [http://www.1point3acres.com/bbs/thread-372304-1-1.html](http://www.1point3acres.com/bbs/thread-372304-1-1.html "http://www.1point3acres.com/bbs/thread-372304-1-1.html")
