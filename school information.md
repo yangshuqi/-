@@ -4,11 +4,23 @@
 - [USNews的综排](https://www.usnews.com/best-colleges/rankings/national-universities)
 # UIUC
 ## Links
-- [https://cs.illinois.edu/admissions/graduate/application-deadlines](https://cs.illinois.edu/admissions/graduate/application-deadlines)
+- list of all programs: [https://cs.illinois.edu/admissions/graduate/application-deadlines](https://cs.illinois.edu/admissions/graduate/application-deadlines)
+- MCS: [https://cs.illinois.edu/admissions/graduate/applications-process-requirements](https://cs.illinois.edu/admissions/graduate/applications-process-requirements "https://cs.illinois.edu/admissions/graduate/applications-process-requirements")
+- MCS的TOFEL说明：[https://grad.illinois.edu/admissions/instructions/04c](https://grad.illinois.edu/admissions/instructions/04c "https://grad.illinois.edu/admissions/instructions/04c")
 - [http://www.1point3acres.com/bbs/thread-313951-1-1.html](http://www.1point3acres.com/bbs/thread-313951-1-1.html)
 ## Basic Information
-
-
+- M.S. in Computer Science
+	- **DDL**：  **December 15th**
+	- UIUC的MSCS似乎要求很高，暂时还没仔细看其他各项要求；之前有看到说申phd不够的候选人也会被放到MSCS的候选池里...
+- Professional Master of Computer Science (on-campus MCS)：
+ 	- **DDL**： **January 15th**; It is highly recommended to have all application materials submitted **one month prior to the deadline** to expedite admission decisions.
+	- **GRE**: recommended, but not required
+	- **TOFEL**: 
+		- **greater than 102** (for full Status Admission); 
+		- **79-102 for Limited Status Admission** with English as a Second Language Placement Test Required. 
+		- Should be **less than two years old from the first day of class** at the proposed term of entry in order to be valid. (心态爆炸*1)	
+	- **GPA**： 3.0/4.0 or higher 
+	- **Recommandation Letter**: Applicants are required to have **three** letters of recommendation submitted. It is recommended that letters of recommendation be from **academics**. 
 
 # UTA  
 ## Links  
@@ -37,7 +49,7 @@ UMass| USNews CS| USNews National
 	- **TOEFL**: TThe minimum accepted score is **100** for the internet based TOEFL exam, however most candidates should be above this score.
 	- **DDL**: applications for fall are due by the drop day of the spring term (January 11, 2019 4:00 PM 不确定是不是这个... [calendar link](https://registrar.gatech.edu/calendar ). 
 -  Master of Science degree in Computational Science and Engineering (CSE):
-	- DDL: The application deadline for the MS Program in CSE is **Feb. 1**.
+	- **DDL**: The application deadline for the MS Program in CSE is **Feb. 1**.
 ## Some reference
 - "COC比较偏数学（？）"；  "GaTech要求每个申请人在ApplyWeb只能申请两个项目；但可以用另外的邮箱多注册一个ApplyWeb账号申请多个，一个学院申请多个，可能在秘书分类材料时候会发现。" （from [http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524 "http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524") )
 
