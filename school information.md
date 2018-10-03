@@ -59,6 +59,11 @@ UMass| USNews CS| USNews National
 ---|---|---
 15|20|22
 
+## T/G
+program| TOEFL| GRE |ddl
+---|---|---|---
+CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
+
 
 
 # UCI
