@@ -43,13 +43,13 @@ Computational Science, Mathematics and Engineering(CSME)|||2019-2-4
 - [M.S. Plan I - Thesis](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-thesis)
 - [M.S. Plan II- Comprehensive Exam, Standard Option](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-standard)
 - [M.S. Plan II - Comprehensive Exam, Interdisciplinary Option](https://cse.ucsd.edu/graduate/degree-programs/ms-program/ms-2015-comp-interdisc)
-#### admission
-- 1 
+
 ### CSME
 - 看到了就记下来，感觉ucsd还是主要申请cse吧
 
-#### admisson
-- 2
+## Admission
+- [CSE](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=423813&highlight=ucsd)
+- [CSME](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=395643&highlight=ucsd)
 
 # USC(南加州大学）
 
@@ -63,6 +63,13 @@ UMass| USNews CS| USNews National
 program| TOEFL| GRE |ddl
 ---|---|---|---
 CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
+
+## Program
+- 有一堆下面的小选项，主要有三类，一个是CS General(28 units), 还有其他一些是CS specific(32 units), 还有一个CS-Scientists and Engineers(37 units, 俗称CS37, 好像对转专业比较友好，和我们关系不大???) 可以见[computer science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/)
+
+## Admisson
+- [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=419757&highlight=USC)
+
 
 
 
