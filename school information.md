@@ -1,3 +1,7 @@
+# 常见的榜单
+- [UMass的教授根据faculty的论文数量质量做的排行](http://csrankings.org/#/index?all)
+- [USNews的CS专排](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)
+- [USNews的综排](https://www.usnews.com/best-colleges/rankings/national-universities)
 # UIUC
 ## Links
 - [https://cs.illinois.edu/admissions/graduate/application-deadlines](https://cs.illinois.edu/admissions/graduate/application-deadlines)
@@ -15,7 +19,8 @@
 - "COC比较偏数学（？）"；  "GaTech要求每个申请人在ApplyWeb只能申请两个项目；但可以用另外的邮箱多注册一个ApplyWeb账号申请多个，一个学院申请多个，可能在秘书分类材料时候会发现。" （from [http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524 "http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524") )
 
 
-# UCSD 
+# UCSD (加州大学-圣地亚哥分校）
+
 ## Links
 - [UCSD CSE风景超好学费超便宜排名又好你们不来吗！！！（半年生活学习实习分享](http://www.1point3acres.com/bbs/thread-259453-1-1.html "http://www.1point3acres.com/bbs/thread-259453-1-1.html")
 - 
