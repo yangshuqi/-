@@ -69,7 +69,7 @@ CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 
 ## Admisson
 - [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=419757&highlight=USC)
-— [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=424768&highlight=USC)
+- [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=424768&highlight=USC)
 - [CS](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425559&highlight=USC)
 - [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=424731&highlight=USC)
 - [CS37](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=419604)
