@@ -51,6 +51,28 @@ Computational Science, Mathematics and Engineering(CSME)|||2019-2-4
 - [CSE](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=423813&highlight=ucsd)
 - [CSME](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=395643&highlight=ucsd)
 
+# Columbia(哥伦比亚大学)
+
+## Links
+- [哥大cs2018年新生感受](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=440862&highlight=%B8%E7%B4%F3)
+- 
+
+## Program
+
+
+
+## Rank
+
+UMass| USNews CS| USNews National
+---|---|---
+12|13|3
+
+## T/G
+program| TOEFL| GRE |ddl
+---|---|---|---
+CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
+
+
 # USC(南加州大学）
 
 ## Rank
