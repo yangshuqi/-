@@ -52,9 +52,14 @@ UMass| USNews CS| USNews National
 - M.S. of Computer Science (Computer Science)
 	- **DDL**： **December 17, 2018** (Ph.D., M.S./Ph.D., M.S.)
 
+# UCLA (加州大学洛杉矶分校)
+## Links:
+- [UCLA CS master项目介绍] (http://www.1point3acres.com/bbs/thread-433198-1-1.html)
+
 # UTA  
 ## Links  
 - [http://www.1point3acres.com/bbs/thread-314543-1-1.html](http://www.1point3acres.com/bbs/thread-314543-1-1.html "http://www.1point3acres.com/bbs/thread-314543-1-1.html")
+- [UT Austin ECE MS 18Fall入學感受] (http://www.1point3acres.com/bbs/thread-443300-1-1.html)
 
 # UMich(密西根大学)
 
@@ -84,7 +89,8 @@ UMass| USNews CS| USNews National
 - [加拿大滑铁卢 CSE](http://www.1point3acres.com/bbs/home.php?mod=space&uid=337542&do=thread&view=me&from=space)
 
 # Cornell
-
+## Links
+- [[学习问卷] M.Eng@cornell](http://www.1point3acres.com/bbs/thread-444872-1-1.html)
 ## Admission
 - [加拿大滑铁卢 CSE](http://www.1point3acres.com/bbs/home.php?mod=space&uid=337542&do=thread&view=me&from=space)
 
@@ -104,6 +110,7 @@ UMass| USNews CS| USNews National
 3.  [https://www.cc.gatech.edu/academics/degree-programs/masters/computational-science-engineering](https://www.cc.gatech.edu/academics/degree-programs/masters/computational-science-engineering "https://www.cc.gatech.edu/academics/degree-programs/masters/computational-science-engineering")
 4.  [https://www.cse.gatech.edu/academics/ms-cse](https://www.cse.gatech.edu/academics/ms-cse "https://www.cse.gatech.edu/academics/ms-cse")
 5.  [http://www.grad.gatech.edu/helpdesk/knowledgebase.php](http://www.grad.gatech.edu/helpdesk/knowledgebase.php "http://www.grad.gatech.edu/helpdesk/knowledgebase.php")
+6.  [介绍下Gatech的CSE](http://www.1point3acres.com/bbs/thread-301319-1-1.html)
 
 ## T/G
 - M.S. Computer Science(in CoC) - Admissions Requirements (information from link 2):  
