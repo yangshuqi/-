@@ -54,12 +54,12 @@ UMass| USNews CS| USNews National
 
 # UCLA (加州大学洛杉矶分校)
 ## Links:
-- [UCLA CS master项目介绍] (http://www.1point3acres.com/bbs/thread-433198-1-1.html)
+- [UCLA CS master项目介绍](http://www.1point3acres.com/bbs/thread-433198-1-1.html)
 
 # UTA  
 ## Links  
 - [http://www.1point3acres.com/bbs/thread-314543-1-1.html](http://www.1point3acres.com/bbs/thread-314543-1-1.html "http://www.1point3acres.com/bbs/thread-314543-1-1.html")
-- [UT Austin ECE MS 18Fall入學感受] (http://www.1point3acres.com/bbs/thread-443300-1-1.html)
+- [UT Austin ECE MS 18Fall入學感受](http://www.1point3acres.com/bbs/thread-443300-1-1.html)
 
 # UMich(密西根大学)
 
