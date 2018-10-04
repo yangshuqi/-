@@ -2,6 +2,7 @@
 - [UMass的教授根据faculty的论文数量质量做的排行](http://csrankings.org/#/index?all)
 - [USNews的CS专排](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)
 - [USNews的综排](https://www.usnews.com/best-colleges/rankings/national-universities)
+- [一亩三分地18Fall CS录取结果播报](http://www.1point3acres.com/bbs/thread-312225-1-1.html)
 # 常见问题
 - [degree和certificate区别](https://study.com/articles/What_is_the_Difference_Between_a_Certificate_Diploma_and_Degree.html)
 # UIUC
