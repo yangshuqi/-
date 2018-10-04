@@ -111,6 +111,7 @@ UMass| USNews CS| USNews National
 4.  [https://www.cse.gatech.edu/academics/ms-cse](https://www.cse.gatech.edu/academics/ms-cse "https://www.cse.gatech.edu/academics/ms-cse")
 5.  [http://www.grad.gatech.edu/helpdesk/knowledgebase.php](http://www.grad.gatech.edu/helpdesk/knowledgebase.php "http://www.grad.gatech.edu/helpdesk/knowledgebase.php")
 6.  [介绍下Gatech的CSE](http://www.1point3acres.com/bbs/thread-301319-1-1.html)
+7.  [Gatech COC COE COS求分辨](http://www.1point3acres.com/bbs/thread-442774-1-1.html)
 
 ## T/G
 - M.S. Computer Science(in CoC) - Admissions Requirements (information from link 2):  
