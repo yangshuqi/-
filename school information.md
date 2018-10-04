@@ -134,6 +134,7 @@ UMass| USNews CS| USNews National
 - [CSE Admisson Requirements](https://cse.ucsd.edu/graduate/admissions)
 - [CSE Program Introduction](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 - [UCSD CSE风景超好学费超便宜排名又好你们不来吗！！！（半年生活学习实习分享](http://www.1point3acres.com/bbs/thread-259453-1-1.html "http://www.1point3acres.com/bbs/thread-259453-1-1.html")
+- [UCSD介绍&在美一年学习生活回顾](http://www.1point3acres.com/bbs/thread-446145-1-1.html)
 
 
 ## T/G
