@@ -242,10 +242,24 @@ CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 ## CS MEng
 ### Links
 - [http://www.cs.cornell.edu/masters/apply](http://www.cs.cornell.edu/masters/apply)
-#### DDL Feb 1 2019
-#### review 是在ddl之后
-#### recommendation: 2
-#### T: L15 R20 S22 W20  ALL:100   G:需要，没有明说要求
+DDL Feb 1 2019
+review 是在ddl之后
+recommendation: 2
+T: L15 R20 S22 W20  ALL:100   G:需要，没有明说要求
+GPA: 2.7+ 这只是最低要求
+结尾是project
+## CS MS
+T: 24 * 3, S:28+  emmmmm,凉了凉了
+MS 的要求非常高
+论文毕业
+## ECE MEng
+### Links
+- [https://www.engineering.cornell.edu/admissions/undergraduate-admissions/first-year-applicants](https://www.engineering.cornell.edu/admissions/undergraduate-admissions/first-year-applicants)
+DDL Jan 2 2019
+DDL with fanacial aid: Jan 2
+T: 100+
+
+ 
 
 
 
