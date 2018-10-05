@@ -238,6 +238,18 @@ CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 ## Links
 - [http://www.1point3acres.com/bbs/thread-372304-1-1.html](http://www.1point3acres.com/bbs/thread-372304-1-1.html "http://www.1point3acres.com/bbs/thread-372304-1-1.html")
 
+# Cornell
+## CS MEng
+### Links
+- [http://www.cs.cornell.edu/masters/apply](http://www.cs.cornell.edu/masters/apply)
+#### DDL Feb 1 2019
+#### review 是在ddl之后
+#### recommendation: 2
+#### T: L15 R20 S22 W20  ALL:100   G:需要，没有明说要求
+
+
+
+
 
 # Others
 
