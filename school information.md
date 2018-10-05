@@ -268,5 +268,6 @@ CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 # Others
 
 # Others' admissons
-- 1 [18Fall 中科大](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=423813&highlight=ucsd)
-- 2 [18Fall 福大](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=395643&highlight=ucsd)
+1.  [18Fall 中科大](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=423813&highlight=ucsd)
+2.  [18Fall 福大](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=395643&highlight=ucsd)
+3.  [纯干货的2018CS@MS申请总结及2019申请建议](http://www.1point3acres.com/bbs/thread-447269-1-1.html)
