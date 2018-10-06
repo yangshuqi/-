@@ -260,11 +260,16 @@ CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 - T: 100+
 
 # UT Austin
+## Master in CS
 Master 有两个方向：thesis and no-thesis；申请的时候不必区分
 - gpa 3.0+
 - T: 79+ G: Q越高越好
 - 申请时间：Oct15 - Dec15
 - [https://www.cs.utexas.edu/graduate/prospective-students/apply](https://www.cs.utexas.edu/graduate/prospective-students/apply)
+
+## Master in ECE
+- DDL Dec15
+- [https://www.ece.utexas.edu/graduate/courses](https://www.ece.utexas.edu/graduate/courses)
 
  
 
