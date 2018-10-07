@@ -6,7 +6,9 @@
 # 常见问题
 - [degree和certificate区别](https://study.com/articles/What_is_the_Difference_Between_a_Certificate_Diploma_and_Degree.html)
 # 别人的总结
-[2018fall-cs-master-program-info](https://github.com/wenhanshi/2018fall-cs-master-program-info)
+- [2018fall-cs-master-program-info](https://github.com/wenhanshi/2018fall-cs-master-program-info)
+- [纯干货的2018CS@MS申请总结及2019申请建议](http://www.1point3acres.com/bbs/thread-447269-1-1.html)
+- [一份迟来的申请总结](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524)
 # UIUC
 ## Rank
 UMass| USNews CS| USNews National
@@ -284,4 +286,3 @@ Master 有两个方向：thesis and no-thesis；申请的时候不必区分
 # Others' admissons
 1.  [18Fall 中科大](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=423813&highlight=ucsd)
 2.  [18Fall 福大](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=395643&highlight=ucsd)
-3.  [纯干货的2018CS@MS申请总结及2019申请建议](http://www.1point3acres.com/bbs/thread-447269-1-1.html)
