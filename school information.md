@@ -64,6 +64,14 @@ UMass| USNews CS| USNews National
 ## Links  
 - [http://www.1point3acres.com/bbs/thread-314543-1-1.html](http://www.1point3acres.com/bbs/thread-314543-1-1.html "http://www.1point3acres.com/bbs/thread-314543-1-1.html")
 - [UT Austin ECE MS 18Fall入學感受](http://www.1point3acres.com/bbs/thread-443300-1-1.html)
+- cs主页：[https://www.cs.utexas.edu/graduate-program/prospective-students](https://www.cs.utexas.edu/graduate-program/prospective-students)
+
+## Basic Information:
+- computer science
+	 - DDL: **12.15**
+	 - GRE的math越高越好
+	 - 托福写的要求79
+	 - 允许如果phd不够要求就接着考虑mscs
 
 # UMich(密西根大学)
 
