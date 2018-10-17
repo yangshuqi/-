@@ -7,7 +7,7 @@
 - [degree和certificate区别](https://study.com/articles/What_is_the_Difference_Between_a_Certificate_Diploma_and_Degree.html)
 # 别人的总结
 - [2018fall-cs-master-program-info](https://github.com/wenhanshi/2018fall-cs-master-program-info)
-- [纯干货的2018CS@MS申请总结及2019申请建议](http://www.1point3acres.com/bbs/thread-447269-1-1.html)
+- [纯干货的2018CS@MS申请总结及2019申请建议](http://www.1point3acres.com/bbs/thread-44269-1-1.html)
 - [一份迟来的申请总结](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=425524)
 # UIUC
 ## Rank
@@ -60,18 +60,7 @@ UMass| USNews CS| USNews National
 ## Links:
 - [UCLA CS master项目介绍](http://www.1point3acres.com/bbs/thread-433198-1-1.html)
 
-# UTA  
-## Links  
-- [http://www.1point3acres.com/bbs/thread-314543-1-1.html](http://www.1point3acres.com/bbs/thread-314543-1-1.html "http://www.1point3acres.com/bbs/thread-314543-1-1.html")
-- [UT Austin ECE MS 18Fall入學感受](http://www.1point3acres.com/bbs/thread-443300-1-1.html)
-- cs主页：[https://www.cs.utexas.edu/graduate-program/prospective-students](https://www.cs.utexas.edu/graduate-program/prospective-students)
 
-## Basic Information:
-- computer science
-	 - DDL: **12.15**
-	 - GRE的math越高越好
-	 - 托福写的要求79
-	 - 允许如果phd不够要求就接着考虑mscs
 
 # UMich(密西根大学)
 
@@ -271,17 +260,27 @@ CS|90(每项20)||2018-12-15(考虑奖学金), 全部是到2019-1-15
 - DDL with fanacial aid: Jan 2
 - T: 100+
 
-# UT Austin
+# UT Austin / UTA
+## Links  
+- [http://www.1point3acres.com/bbs/thread-314543-1-1.html](http://www.1point3acres.com/bbs/thread-314543-1-1.html "http://www.1point3acres.com/bbs/thread-314543-1-1.html")
+- [UT Austin ECE MS 18Fall入學感受](http://www.1point3acres.com/bbs/thread-443300-1-1.html)
+- 完整list [https://gradschool.utexas.edu/connect](https://gradschool.utexas.edu/connect)
+- cs主页：[https://www.cs.utexas.edu/graduate-program/prospective-students](https://www.cs.utexas.edu/graduate-program/prospective-students)
+	
 ## Master in CS
 Master 有两个方向：thesis and no-thesis；申请的时候不必区分
 - gpa 3.0+
 - T: 79+ G: Q越高越好
 - 申请时间：Oct15 - Dec15
 - [https://www.cs.utexas.edu/graduate/prospective-students/apply](https://www.cs.utexas.edu/graduate/prospective-students/apply)
+- 允许如果phd不够要求就接着考虑mscs
 
 ## Master in ECE
-- DDL Dec15
+- DDL **Dec15**
 - [https://www.ece.utexas.edu/graduate/courses](https://www.ece.utexas.edu/graduate/courses)
+- master in software engineering: [https://executive.engr.utexas.edu/pme/swe.php](https://executive.engr.utexas.edu/pme/swe.php)
+
+- Interdisciplinary Program in Computational Science, Engineering & Mathematics （不知道是个什么。。）[https://www.ices.utexas.edu/graduate-studies/](https://www.ices.utexas.edu/graduate-studies/)
 
  
 
